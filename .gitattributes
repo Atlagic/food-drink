@@ -1,3 +1,4 @@
 font-awesome-4.6.3/css/* linguist-vendored
+rest/* linguist-vendored
 $ cat .gitattributes
 *.rb linguist-language=Php
